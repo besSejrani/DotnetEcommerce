@@ -1,0 +1,6 @@
+snippets/
+.vscode/
+.DS_Store
+
+Server/api/bin
+Server/api/obj
